@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+body{
+  height: 100%;
+  width: 100%;
+  background-color: #DED6C1;
+}
+
+.PoojectName{
+ font-family: "Source Code Pro", monospace;
+  user-select: none;
+}
+
+
+.heading{
+    font-family: "Playwrite IT Trad", cursive;
+    font-weight: 700;
+   user-select: none;
+}
